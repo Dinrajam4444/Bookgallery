@@ -1,0 +1,42 @@
+body{
+    background-color: blue;
+}
+.c{
+    width: 31%;
+    height: 430px;
+    background-color:burlywood;
+    color: white;
+    border: black 5px solid;
+    float:left;
+    padding: 10px;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 5px;
+
+}
+
+img{
+    width: 60%;
+    height: 200px;
+    text-align: center;
+}
+
+label{
+    color:red;
+    /* text-align: center; */
+}
+
+h1{
+    text-align: center;
+    color: black;
+    background-color: white;
+    
+}
+
+h2{
+    color: darkslateblue;
+    background-color: white;
+    text-align: center;
+
+}
+
